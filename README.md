@@ -1,5 +1,5 @@
 # Carrefour-Product-Scraper
-````
+
 # 🛒 Carrefour Product Scraper
 
 A beginner-friendly web scraping project using Python. This script collects product names and prices from **Carrefour Egypt** product pages. It covers both static and dynamic content extraction using `requests`, `BeautifulSoup`, and `Selenium`.
@@ -33,7 +33,7 @@ A beginner-friendly web scraping project using Python. This script collects prod
    ```bash
    git clone https://github.com/your-username/carrefour-product-scraper.git
    cd carrefour-product-scraper
-````
+
 
 2. **Install requirements**
 
